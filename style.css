@@ -1,0 +1,14 @@
+.number_area{
+    background-color: grey;
+    border: 1px solid black;
+    width: 300px;
+    height: fit-content;
+}
+
+
+ #ODU_result{
+    background-color: aqua;
+    border: 1px solid yellowgreen;
+    height: fit-content;
+    width:300px;
+ }
